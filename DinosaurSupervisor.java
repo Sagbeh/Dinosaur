@@ -18,5 +18,7 @@ public class DinosaurSupervisor {
 
         Dinosaur newDino = new Dinosaur();
 
+        Dinosaur anotherDino = new Dinosaur();
+
     }
 }
