@@ -15,5 +15,8 @@ public class DinosaurSupervisor {
 
         Dinosaur stegosaurus = new Dinosaur();
         stegosaurus.roar();
+
+        Dinosaur newDino = new Dinosaur();
+
     }
 }
